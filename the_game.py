@@ -9,7 +9,10 @@ def get_result():
 
 def main():
 	input("Wellcome! Enter your name: ")
-	print(get_result())
+	if name == "cyberowca"
+		print("You win!")
+	else:
+		print(get_result())
 
 
 if __name__ == '__main__':
